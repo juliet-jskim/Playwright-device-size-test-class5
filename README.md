@@ -7,4 +7,4 @@ CSS
 JSON
 
 ## Dependencies
-playwright
+Typescript
